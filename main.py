@@ -39,6 +39,8 @@ if result == "Strong!":
     else:
         print("Thanks for using this tools!")
 
+# a saw a bug here
+
 
 
 
